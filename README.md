@@ -3,7 +3,8 @@
 ## About
 This is a school project which is written mainly to test out the AI algorithms. This chess bot uses a decision-tree solution with min-max  and alpha-beta pruning algorithm. 
 
-## Dependencies To run the program you need to have [PyGame](https://www.pygame.org/) installed. 
+## Dependencies 
+To run the program you need to have [PyGame](https://www.pygame.org/) installed. 
 To install PyGame run:
 
     python3 -m pip install -U pygame --user
